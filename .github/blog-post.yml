@@ -1,0 +1,16 @@
+name: Blog Posts
+
+on:
+  schedule:
+    # Runs every Monday
+    - cron: '0 0 * * 1'
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://teobler.com/rss.xml"

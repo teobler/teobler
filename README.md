@@ -1,16 +1,20 @@
-### Hi there 👋
+## 👋 Hi there
 
-<!--
-**teobler/teobler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Teobler, thank you for your attention.
 
-Here are some ideas to get you started:
+You can ask me everything about agile and front-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Agile Transformation](https://teobler.com/posts/20210309-agile-transformation)
+- [Xp Technology Practices](https://teobler.com/posts/https://teobler.com/posts/20210228-xp-technology-practices)
+- [Agile Technology Practices Tdd](https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/20210221-agile-technology-practices-tdd)
+- [Agile Team Practice](https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/20210214-agile-team-practice)
+- [Agile Three Business Practice](https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/https://teobler.com/posts/20210207-agile-three-business-practice)
+<!-- BLOG-POST-LIST:END -->
+
+## Feel free to reach me:
+
+- 📫 Gmail: jczqr@gmail.com
+- 💬 WeChat Official Accounts: [Teobler](https://teobler.com/shanyuan.jpeg)
+- 🔭 Blog: [Teobler](https://teobler.com)
